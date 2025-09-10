@@ -60,4 +60,4 @@ A complete SOC lab project demonstrating packet capturing, PCAP analysis, Sigma 
 
 **Author**: SOLOMON JAMES 
 🔗 [GitHub](https://github.com/Solomon-James-Cyber) | [LinkedIn](https://linkedin.com/in/solomon-james-cyber)  
-📧 officialjaysolex100@gmail.com
+📧 solomon.a.james97@gmail.com
