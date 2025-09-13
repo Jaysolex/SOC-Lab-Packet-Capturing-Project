@@ -32,7 +32,7 @@ A complete SOC lab project demonstrating packet capturing, PCAP analysis, Sigma 
 ### 4. Wazuh SIEM Dashboard
 ![Wazuh SIEM Dashboard](screenshots/wazuh_siem_dashboard.png)
 
-> 📌 **Tip**: Just add your screenshots into the `screenshots/` folder with these filenames, and they’ll automatically appear here.
+>
 
 ---
 
